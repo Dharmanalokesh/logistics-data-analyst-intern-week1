@@ -1,0 +1,51 @@
+Order_ID,Destination,Distance_KM,Delivery_Time_Hours,Transport_Cost,Vehicle_Type,Delivery_Status
+1001,Vijayawada,60,7.7,540,Van,Delayed
+1002,Warangal,22,2.4,272,Mini Truck,On Time
+1003,Guntur,12,1.8,108,Van,On Time
+1004,Warangal,55,5.5,525,Van,On Time
+1005,Vijayawada,25,3.3,305,Truck,On Time
+1006,Vijayawada,70,8.0,910,Truck,On Time
+1007,Visakhapatnam,35,5.4,295,Van,Delayed
+1008,Guntur,35,3.5,405,Mini Truck,On Time
+1009,Visakhapatnam,18,3.0,264,Truck,Delayed
+1010,Vijayawada,55,5.0,475,Van,On Time
+1011,Visakhapatnam,30,3.3,290,Van,On Time
+1012,Visakhapatnam,45,5.0,505,Mini Truck,On Time
+1013,Vijayawada,25,2.5,305,Mini Truck,On Time
+1014,Warangal,50,6.1,570,Mini Truck,Delayed
+1015,Hyderabad,30,3.2,340,Mini Truck,On Time
+1016,Hyderabad,25,4.0,235,Van,Delayed
+1017,Warangal,25,3.3,275,Mini Truck,On Time
+1018,Vijayawada,40,4.5,450,Mini Truck,On Time
+1019,Warangal,25,3.3,305,Mini Truck,On Time
+1020,Guntur,55,6.0,715,Truck,On Time
+1021,Vijayawada,45,5.0,405,Van,On Time
+1022,Warangal,60,5.5,800,Truck,On Time
+1023,Hyderabad,55,6.0,745,Truck,On Time
+1024,Hyderabad,60,7.7,670,Mini Truck,Delayed
+1025,Visakhapatnam,30,4.8,370,Truck,Delayed
+1026,Guntur,50,4.5,460,Van,On Time
+1027,Guntur,55,7.1,495,Van,Delayed
+1028,Hyderabad,50,5.5,470,Van,On Time
+1029,Vijayawada,18,2.3,214,Truck,On Time
+1030,Guntur,55,7.6,475,Van,Delayed
+1031,Vijayawada,22,3.5,228,Van,Delayed
+1032,Guntur,30,4.2,330,Mini Truck,Delayed
+1033,Visakhapatnam,70,8.8,790,Mini Truck,Delayed
+1034,Vijayawada,45,4.5,495,Mini Truck,On Time
+1035,Vijayawada,18,2.5,264,Truck,On Time
+1036,Hyderabad,12,1.5,108,Van,On Time
+1037,Warangal,12,1.8,166,Truck,On Time
+1038,Warangal,25,4.3,275,Mini Truck,Delayed
+1039,Visakhapatnam,40,4.4,380,Van,On Time
+1040,Hyderabad,40,4.0,500,Truck,On Time
+1041,Vijayawada,40,4.0,440,Mini Truck,On Time
+1042,Vijayawada,25,3.0,295,Mini Truck,On Time
+1043,Guntur,30,3.3,410,Truck,On Time
+1044,Vijayawada,18,1.6,142,Van,On Time
+1045,Warangal,22,3.7,286,Truck,Delayed
+1046,Visakhapatnam,12,1.5,128,Van,On Time
+1047,Vijayawada,45,6.0,585,Truck,Delayed
+1048,Hyderabad,30,3.3,280,Van,On Time
+1049,Guntur,12,1.7,112,Mini Truck,On Time
+1050,Warangal,18,2.0,162,Van,On Time
